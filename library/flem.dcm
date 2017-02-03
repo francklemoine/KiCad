@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5263
+D ANALOG DEVICES I2C Digital Potentiometer
+$ENDCMP
+#
+$CMP DS1808
+D DALLAS I2C Digital Potentiometer
+$ENDCMP
+#
+$CMP LT1117
+D LT1117, Positive 0.8A 5V LDO Linear Regulator, SOT-223
+K LDO Voltage Regulator Positive
+$ENDCMP
+#
+$CMP LT1175
+D LT1175, Negative 0.5A 5V LDO Linear Regulator, SOT-223
+K LDO Voltage Regulator Negative
+$ENDCMP
+#
+$CMP OP275_ABC
+D Dual Op amp (low power)
+K ampliop
+F analog-dev/op275.pdf
+$ENDCMP
+#
+$CMP PONT
+D Pont de Diodes
+K PONT BRIDGE DIODE
+$ENDCMP
+#
+$CMP RCA
+D RCA jack
+$ENDCMP
+#
+#End Doc Library
