@@ -1,4 +1,4 @@
-(module ESP8266_ESP_02_SMD_Handsoldering (layer F.Cu) (tedit 58A2DE58)
+(module ESP8266_ESP_02_SMD (layer F.Cu) (tedit 58A2DE58)
   (fp_text reference ESP_02 (at 7.112 2.54 180) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.16)))
   )
